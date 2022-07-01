@@ -12,6 +12,9 @@
 ## Technologies
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) ![Bitbucket](https://img.shields.io/badge/-Bitnucket-black?style=flat-square&logo=bitbucket)
+
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Adonis](https://img.shields.io/badge/-AdonisJS-black?style=flat-square&logo=adonisjs) ![Express](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat-square&logo=googlecloud) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)  ![AmazonS3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3)
