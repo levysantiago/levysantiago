@@ -18,3 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat-square&logo=googlecloud) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)  ![AmazonS3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3)
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styledcomponents)
+
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum) ![BSC](https://img.shields.io/badge/-BSC-black?style=flat-square&logo=binance) ![Metamask](https://img.shields.io/badge/-Metamask-black?style=flat-square&logo=metamask) ![Web3JS](https://img.shields.io/badge/-Web3JS-black?style=flat-square&logo=web3.js) ![EthersJS](https://img.shields.io/badge/-EthersJS-black?style=flat-square&logo=ethers.js)
