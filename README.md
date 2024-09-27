@@ -15,7 +15,7 @@ Backend: ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&
 
 Database / Cache: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
-ORM: ![Prisma](https://img.shields.io/badge/-PrismaJS-black?style=flat-square&logo=prisma) ![TypeORM](https://img.shields.io/badge/-PrismaJS-black?style=flat-square&logo=TypeORM)
+ORM: ![Prisma](https://img.shields.io/badge/-PrismaJS-black?style=flat-square&logo=prisma) ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=TypeORM)
 
 Other Tools: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq) ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io) ![ZOD](https://img.shields.io/badge/-ZOD-black?style=flat-square&logo=zod) ![TSyringe](https://img.shields.io/badge/-TSyringe-black?style=flat-square&logo=tsyringe)
 
