@@ -17,7 +17,7 @@ Database / Cache: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=f
 
 ORM: ![Prisma](https://img.shields.io/badge/-PrismaJS-black?style=flat-square&logo=prisma) ![TypeORM](https://img.shields.io/badge/-PrismaJS-black?style=flat-square&logo=TypeORM)
 
-Other Tools: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq) ![Socket.io](https://img.shields.io/badge/-SocketIo-black?style=flat-square&logo=socket.io) ![ZOD](https://img.shields.io/badge/-ZOD-black?style=flat-square&logo=zod) ![TSyringe](https://img.shields.io/badge/-TSyringe-black?style=flat-square&logo=tsyringe)
+Other Tools: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq) ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io) ![ZOD](https://img.shields.io/badge/-ZOD-black?style=flat-square&logo=zod) ![TSyringe](https://img.shields.io/badge/-TSyringe-black?style=flat-square&logo=tsyringe)
 
 Blockchain: ![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum) ![BSC](https://img.shields.io/badge/-BSC-black?style=flat-square&logo=binance) ![Metamask](https://img.shields.io/badge/-Metamask-black?style=flat-square&logo=metamask) ![Web3JS](https://img.shields.io/badge/-Web3JS-black?style=flat-square&logo=web3.js) ![EthersJS](https://img.shields.io/badge/-EthersJS-black?style=flat-square&logo=ethers.js)
 
